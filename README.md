@@ -8,7 +8,7 @@ Avocado is a food delivery website that allows users to browse menus, add items 
 
 ## Getting Started
 
-1. Visit the [Avocado Website]().
+1. Visit the [Avocado Website](https://avocado-frontend-skex.onrender.com/).
 2. Sign up or log in to start ordering your favorite meals.
 3. Browse the menu, add items to your cart, and enjoy a seamless ordering experience.
 
