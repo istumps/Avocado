@@ -41,26 +41,32 @@
 }
 .header-content a {
 
-    top:-5vh; /* Adjust this value to move it higher */
+    top:-5vh; 
 
     display: inline-block;
-    background-color: white; /* Change this to your preferred button color */
-    color: #747474; /* White text color */
+    background-color: white; 
+    color: #747474; 
     font-weight: 500;
     padding: 1vw 2.3vw;
     font-size: max(1vw, 13px);
     border-radius: 50px;
     text-align: center;
-    text-decoration: none; /* Remove underline */
-    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Optional: Adds a slight shadow for depth */
-    transition: background-color 0.3s ease; /* Smooth transition for hover effect */
+    text-decoration: none; 
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); 
+    transition: background-color 0.3s ease; 
 }
 
 .header-content a:hover {
-    background-color: rgb(190, 187, 187)/* Change to the color you want on hover */
+    background-color: rgb(190, 187, 187)
 }
 
 @media (max-width:1050px){
+    .header-content h2{
+       
+        padding-bottom: 0vh;
+        
+    
+    }
    
     .header-content{
         max-width: 45%;
